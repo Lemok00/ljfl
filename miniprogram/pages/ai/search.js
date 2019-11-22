@@ -8,7 +8,7 @@ Page(
     data: {
       datas:[],
       searchText:"",
-        noResult:"没有查到结果，换个词试试奥~",
+        noResult:"没有查到结果，换个词试试叭^^~",
       logo:"",
   },
 
